@@ -1,3 +1,2 @@
-# JogaBonito
+# Football/Soccer related data projects
 
-Football related data projects
